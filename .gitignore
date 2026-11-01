@@ -1,0 +1,14 @@
+# Local, per-machine values (device ids, team overrides)
+credentials.env
+
+# Build output
+build/
+DerivedData/
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# macOS
+.DS_Store
